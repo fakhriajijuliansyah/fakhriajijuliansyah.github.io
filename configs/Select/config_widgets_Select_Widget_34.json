@@ -1,0 +1,24 @@
+{
+  "selectionColor": "#00FFFF",
+  "selectionMode": "partial",
+  "enableByDefault": true,
+  "allowExport": false,
+  "includeRuntimeLayers": true,
+  "geometryTypes": [
+    "EXTENT"
+  ],
+  "layerState": {
+    "5e380b72e0324cb4826d092b58fd79e5": {
+      "selected": true
+    },
+    "2c0db46c59cc4567a83e9174d31108a7": {
+      "selected": true
+    },
+    "bf8716ee638749659e88812d7ef4bb80": {
+      "selected": true
+    },
+    "cf88b26c7d334946a9e92e2c9fece36f": {
+      "selected": true
+    }
+  }
+}
